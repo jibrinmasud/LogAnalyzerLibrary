@@ -449,11 +449,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerAPI\\LogAnalyzerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerAPI\\LogAnalyzerAPI.csproj",
       "projectName": "LogAnalyzerAPI",
-      "projectPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerAPI\\LogAnalyzerAPI.csproj",
+      "projectPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerAPI\\LogAnalyzerAPI.csproj",
       "packagesPath": "C:\\Users\\VP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerAPI\\obj\\",
+      "outputPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -470,8 +470,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj": {
-              "projectPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj"
+            "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj": {
+              "projectPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj"
             }
           }
         }

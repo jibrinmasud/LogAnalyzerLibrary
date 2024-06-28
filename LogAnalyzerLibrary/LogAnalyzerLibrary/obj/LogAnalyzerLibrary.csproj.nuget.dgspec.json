@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj": {}
+    "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj": {
+    "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj",
         "projectName": "LogAnalyzerLibrary",
-        "projectPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj",
+        "projectPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary.csproj",
         "packagesPath": "C:\\Users\\VP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\obj\\",
+        "outputPath": "C:\\Users\\VP\\Desktop\\LogAnalyzerLibrary-1\\LogAnalyzerLibrary\\LogAnalyzerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VP\\AppData\\Roaming\\NuGet\\NuGet.Config",
