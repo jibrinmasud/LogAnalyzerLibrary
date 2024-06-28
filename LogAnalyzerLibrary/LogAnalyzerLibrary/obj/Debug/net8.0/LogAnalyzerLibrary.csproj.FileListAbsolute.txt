@@ -1,0 +1,11 @@
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\bin\Debug\net8.0\LogAnalyzerLibrary.deps.json
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\bin\Debug\net8.0\LogAnalyzerLibrary.dll
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\bin\Debug\net8.0\LogAnalyzerLibrary.pdb
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.AssemblyInfoInputs.cache
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.AssemblyInfo.cs
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.dll
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\net8.0\refint\LogAnalyzerLibrary.dll
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\net8.0\LogAnalyzerLibrary.pdb
+C:\Users\VP\Desktop\LogAnalyzerLibrary\LogAnalyzerLibrary\LogAnalyzerLibrary\obj\Debug\net8.0\ref\LogAnalyzerLibrary.dll
